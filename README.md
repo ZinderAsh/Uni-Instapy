@@ -1,6 +1,7 @@
 # Instapy
 
 A package and script to apply a grayscale or sepia filter to images, using either python, numpy or numba.
+Written for a university assignment.
 
 ## Installation
 
