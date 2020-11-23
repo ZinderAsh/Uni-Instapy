@@ -1,0 +1,6 @@
+tests/__pycache__/*
+instapy/__pycache__/*
+.pytest_cache/*
+nope.png
+rain.jpg
+instapy.egg-info/*
